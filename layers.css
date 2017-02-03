@@ -12,7 +12,7 @@
 }
 @keyframes layer-1 {
     from { transform: translate(0); }
-    to { transform: translate(-600px); }
+    to { transform: translate(-500px); }
 }
 
 .main {
